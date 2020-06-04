@@ -1,0 +1,11 @@
+{
+  "namespace": "",
+  "packageDirectories": [
+    {
+      "default": true,
+      "path": "force-app"
+    }
+  ],
+  "sfdcLoginUrl": "https://jma-aura-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "48.0"
+}
